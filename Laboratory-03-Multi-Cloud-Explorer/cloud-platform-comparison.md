@@ -29,3 +29,9 @@ Google Cloud is a strong choice for Artificial Intelligence and Kubernetes. It p
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose AWS because it offers many different cloud services and can support different types of workloads. I also think it would be a useful platform to learn because of the wide range of services available.
+
+## References
+
+- Amazon Web Services. (n.d.). *AWS products*. https://aws.amazon.com/products/
+- Microsoft Azure. (n.d.). *Azure products*. https://azure.microsoft.com/en-us/products/
+- Google Cloud. (n.d.). *Products and services*. https://cloud.google.com/products
