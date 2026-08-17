@@ -55,6 +55,16 @@ I recommend AWS for the global e-commerce company because it needs scalable and 
 - Elastic Load Balancing
 
 ---
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | Google Cloud | Google Cloud provides scalable services that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS provides a wide range of services that can support different enterprise workloads. |
+| Microsoft Environment | Azure | Azure works well with Microsoft technologies and services. |
+| AI / Machine Learning | Google Cloud | Google Cloud provides services for artificial intelligence and machine learning. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine (GKE) provides a managed Kubernetes service. |
+| Global Web Application | AWS | AWS provides global infrastructure and services that can support scalable web applications. |
 
 ## References
 
