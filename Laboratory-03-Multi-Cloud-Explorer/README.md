@@ -33,4 +33,4 @@ These services provide virtual machines that can run Linux-based workloads in th
 
 ### Screenshot
 
-![Linux Terminal Output](screenshots/linux-terminal.png)
+![Linux Terminal Output](screenshots/killercoda-terminal..png)
